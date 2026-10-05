@@ -1,0 +1,9 @@
+[submodule "forge"]
+	path = forge
+	url = ../forge.git
+[submodule "build-containers"]
+	path = build-containers
+	url = ../build-containers.git
+[submodule "project-example"]
+	path = project-example
+	url = ../project-example.git
